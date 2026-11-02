@@ -1,0 +1,24 @@
+classical-substitution-ciphers/
+├── .github/
+│   └── workflows/
+│       └── checks.yml
+├── docs/
+│   ├── directory-tree.txt
+│   ├── file-classification.csv
+│   ├── portfolio-review.md
+│   └── verification.md
+├── examples/
+│   └── plaintext.txt
+├── notebooks/
+│   ├── modified.ipynb
+│   └── traditional.ipynb
+├── tests/
+│   └── test_ciphers.py
+├── tools/
+│   └── check_publication.py
+├── .gitignore
+├── CHANGELOG.md
+├── LICENSE
+├── NOTICE.md
+├── README.md
+└── ciphers.py

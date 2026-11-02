@@ -1,0 +1,7 @@
+﻿original_input,original_entry,prepared_repository,classification,reason,public_destination
+Traditional MonoAlphaBetic.zip,Traditional MonoAlphaBetic.ipynb,classical-substitution-ciphers,MODIFY,"Consolidated ASCII behavior, validated keys, cleared outputs, synthetic sample; original sample/output excluded",ciphers.py; notebooks/; examples/
+Traditional MonoAlphaBetic.zip,Cryptography Project.pdf,classical-substitution-ciphers,PRIVATE — DO NOT PUBLISH,Original report has personal identifier and unreviewed source material,Excluded
+Traditional MonoAlphaBetic.zip,decrypted.txt,classical-substitution-ciphers,MODIFY,"Consolidated ASCII behavior, validated keys, cleared outputs, synthetic sample; original sample/output excluded",ciphers.py; notebooks/; examples/
+Traditional MonoAlphaBetic.zip,encrypted.txt,classical-substitution-ciphers,MODIFY,"Consolidated ASCII behavior, validated keys, cleared outputs, synthetic sample; original sample/output excluded",ciphers.py; notebooks/; examples/
+Traditional MonoAlphaBetic.zip,Modified MonoAlphaBetic.ipynb,classical-substitution-ciphers,MODIFY,"Consolidated ASCII behavior, validated keys, cleared outputs, synthetic sample; original sample/output excluded",ciphers.py; notebooks/; examples/
+Traditional MonoAlphaBetic.zip,plaintext.txt,classical-substitution-ciphers,MODIFY,"Consolidated ASCII behavior, validated keys, cleared outputs, synthetic sample; original sample/output excluded",ciphers.py; notebooks/; examples/
